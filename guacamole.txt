@@ -3,8 +3,10 @@ Ingredients
  - salt
  - lime
  - cilantro
+ - onion
 
 Instructions
+ - chop onion
  - mix ingredients
  - mash with fork
 
