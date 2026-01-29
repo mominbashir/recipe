@@ -3,3 +3,8 @@ Ingredients
  - salt
  - lime
  - cilantro
+
+Instructions
+ - mix ingredients
+ - mash with fork
+
